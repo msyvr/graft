@@ -1,4 +1,4 @@
-# raftlite
+# WIP: graft
 A lightweight distributed log protocol for server clusters. Written in [Go](https://go.dev).
 
 ## Use
